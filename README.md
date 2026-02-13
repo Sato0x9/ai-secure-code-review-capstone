@@ -1,12 +1,14 @@
-AI-Assisted Secure Code Review
+AI-Assisted Secure Code Review:
 
 A desktop GUI application for automated Python security and style analysis, enhanced with AI-powered explanations.
 
 This project combines deterministic static analysis with language-model-based interpretation to improve the accessibility and clarity of secure code review.
 
-Overview
 
-The system performs:
+Overview:
+
+
+The system performs
 
 Static security analysis using Bandit
 
@@ -15,6 +17,7 @@ PEP8 style checking
 AI-powered explanation of findings (OpenAI API integration)
 
 The goal is to bridge the gap between raw scanner output and human-readable security insight.
+
 
 Key Features
 
